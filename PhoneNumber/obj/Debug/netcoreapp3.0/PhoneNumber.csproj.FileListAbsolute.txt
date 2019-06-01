@@ -1,0 +1,12 @@
+D:\Develop\CSharp\PracticeEveryDay\PracticeEveryDay\PhoneNumber\obj\Debug\netcoreapp3.0\PhoneNumber.csprojAssemblyReference.cache
+D:\Develop\CSharp\PracticeEveryDay\PracticeEveryDay\PhoneNumber\obj\Debug\netcoreapp3.0\PhoneNumber.csproj.CoreCompileInputs.cache
+D:\Develop\CSharp\PracticeEveryDay\PracticeEveryDay\PhoneNumber\obj\Debug\netcoreapp3.0\PhoneNumber.AssemblyInfoInputs.cache
+D:\Develop\CSharp\PracticeEveryDay\PracticeEveryDay\PhoneNumber\obj\Debug\netcoreapp3.0\PhoneNumber.AssemblyInfo.cs
+D:\Develop\CSharp\PracticeEveryDay\PracticeEveryDay\PhoneNumber\bin\Debug\netcoreapp3.0\PhoneNumber.exe
+D:\Develop\CSharp\PracticeEveryDay\PracticeEveryDay\PhoneNumber\bin\Debug\netcoreapp3.0\PhoneNumber.deps.json
+D:\Develop\CSharp\PracticeEveryDay\PracticeEveryDay\PhoneNumber\bin\Debug\netcoreapp3.0\PhoneNumber.runtimeconfig.json
+D:\Develop\CSharp\PracticeEveryDay\PracticeEveryDay\PhoneNumber\bin\Debug\netcoreapp3.0\PhoneNumber.runtimeconfig.dev.json
+D:\Develop\CSharp\PracticeEveryDay\PracticeEveryDay\PhoneNumber\bin\Debug\netcoreapp3.0\PhoneNumber.dll
+D:\Develop\CSharp\PracticeEveryDay\PracticeEveryDay\PhoneNumber\bin\Debug\netcoreapp3.0\PhoneNumber.pdb
+D:\Develop\CSharp\PracticeEveryDay\PracticeEveryDay\PhoneNumber\obj\Debug\netcoreapp3.0\PhoneNumber.dll
+D:\Develop\CSharp\PracticeEveryDay\PracticeEveryDay\PhoneNumber\obj\Debug\netcoreapp3.0\PhoneNumber.pdb
