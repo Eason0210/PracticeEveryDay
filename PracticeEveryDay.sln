@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumber", "PhoneNumber\PhoneNumber.csproj", "{806E4E90-F20A-4CEA-BECD-BB32944F19D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumber2", "PhoneNumber2\PhoneNumber2.csproj", "{278B65A4-36CA-4762-B545-FDE1FBC38EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessNeighbors", "AccessNeighbors\AccessNeighbors.csproj", "{A4EA313D-3DAC-42FC-9909-4F289D21BBEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -9,8 +13,15 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{806E4E90-F20A-4CEA-BECD-BB32944F19D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{806E4E90-F20A-4CEA-BECD-BB32944F19D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{806E4E90-F20A-4CEA-BECD-BB32944F19D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{806E4E90-F20A-4CEA-BECD-BB32944F19D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{278B65A4-36CA-4762-B545-FDE1FBC38EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278B65A4-36CA-4762-B545-FDE1FBC38EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278B65A4-36CA-4762-B545-FDE1FBC38EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278B65A4-36CA-4762-B545-FDE1FBC38EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4EA313D-3DAC-42FC-9909-4F289D21BBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4EA313D-3DAC-42FC-9909-4F289D21BBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4EA313D-3DAC-42FC-9909-4F289D21BBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4EA313D-3DAC-42FC-9909-4F289D21BBEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
